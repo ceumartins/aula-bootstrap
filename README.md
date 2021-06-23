@@ -1,4 +1,4 @@
-# Minha página empresarial
+# Minha Página Empresarial
 Esse é o repositório da aula Construindo páginas para internet com Bootstrap, proposta: Estudo de página com Bootstrap.
 
 ### Os requisitos são:
